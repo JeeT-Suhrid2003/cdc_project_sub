@@ -135,7 +135,7 @@ Place screenshots or a link to a short recording in this repository (e.g., `asse
 
 Example screenshot (replace with your real image):
 
-![App screenshot](assets/image.svg)
+![App screenshot](assets/image.png)
 
 To replace the placeholder with your own screenshot, add `assets/your-screenshot.png` (or .jpg/.svg) and update the image path above.
 
